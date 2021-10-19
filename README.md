@@ -3,8 +3,8 @@
 3rd-Semester at Uni
 
 My apps:
-[Aplikasi Harga Saham](https://aplikasihargasaham-app.herokuapp.com)
-[Amazon Clone with React (Front page & login databases)](https://clone-dito.web.app)
+- [Aplikasi Harga Saham](https://aplikasihargasaham-app.herokuapp.com)
+- [Amazon Clone with React (Front page & login databases)](https://clone-dito.web.app)
 
 🔭 GUI apps with Java is on the way!
 
