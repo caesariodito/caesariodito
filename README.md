@@ -1,5 +1,13 @@
 ### Wadup 🐱‍👤🐱‍🏍🐱‍🚀
 
+3rd-Semester at Uni
+
+My apps:
+[Aplikasi Harga Saham](https://aplikasihargasaham-app.herokuapp.com)
+[Amazon Clone with React (Front page & login databases)](https://clone-dito.web.app)
+
+🔭 GUI apps with Java is on the way!
+
 <!--
 **synraax/synraax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
