@@ -13,6 +13,8 @@ My apps:
 ![image](https://user-images.githubusercontent.com/75000641/137871013-4bc0a4f3-ec4c-47c6-bb9d-95dd0c233a75.png)
 ![image](https://user-images.githubusercontent.com/75000641/137871100-279eecef-f799-444a-b1d6-0ac99975c214.png)
 
+
+- [Slot Machine Prototype - Assignment](https://slotmachineproto.herokuapp.com/)
 ---
 
 🔭 GUI apps with Java is on the way!
