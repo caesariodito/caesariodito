@@ -1,6 +1,6 @@
 ### Wadup 🐱‍👤🐱‍🏍🐱‍🚀
 
-4th-Semester at Uni
+5th-Semester at Uni
 
 My apps:
 - [Aplikasi Harga Saham](https://github.com/synraax/hargaSahamAppV2) made with [Streamlit](https://streamlit.io)
