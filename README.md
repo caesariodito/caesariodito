@@ -17,7 +17,6 @@ My apps:
 - [Slot Machine Prototype - Assignment](https://slotmachineproto.herokuapp.com/)
 ---
 
-🔭 GUI apps with Java is on the way!
 
 <!--
 **synraax/synraax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
