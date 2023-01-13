@@ -6,6 +6,7 @@
 > - Social Network Analysis
 > - Leaf Pattern Recognition with Template Matching, KNN, and Cross Validation
 > - Batik, Numbered Musical Notation Image Processing
+> - Software Engineering "Resep Tangan" (Laravel with React)
 - 🔭 I’m currently learning golang backend!
 
 ---
