@@ -1,7 +1,8 @@
 ### Wadup 🐱‍👤🐱‍🏍🐱‍🚀
 
 5th-Semester at Uni
-
+- focuses on Intelligent System!
+- 🔭 I’m currently learning golang backend!
 
 <!--
 **synraax/synraax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
