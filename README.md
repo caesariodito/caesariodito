@@ -1,8 +1,16 @@
-### Wadup 🐱‍👤🐱‍🏍🐱‍🚀
-
+### Wadup 👊🦆, Nice to meet u!
+---
 5th-Semester at Uni
 - focuses on Intelligent System!
+- college experienced with:
+> - Social Network Analysis
+> - Leaf Pattern Recognition with Template Matching, KNN, and Cross Validation
+> - Batik, Numbered Musical Notation Image Processing
 - 🔭 I’m currently learning golang backend!
+
+---
+
+`spread kindess 🤍`
 
 <!--
 **synraax/synraax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
