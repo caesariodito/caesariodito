@@ -9,7 +9,7 @@
 - 🔭 I’m currently learning golang backend!
 
 ---
-tags on my repo:
+tags on my repos:
 - k: kuliah/college assigments
 - st: study
 - mp: mini project/personal projects
