@@ -9,6 +9,13 @@
 - 🔭 I’m currently learning golang backend!
 
 ---
+tags on my repo:
+- k: kuliah/college assigments
+- st: study
+- mp: mini project/personal projects
+- comp: competition
+
+---
 
 `spread kindess 🤍`
 
