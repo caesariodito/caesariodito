@@ -7,7 +7,7 @@
 > - Leaf Pattern Recognition with Template Matching, KNN, and Cross Validation
 > - Batik, Numbered Musical Notation Image Processing
 > - Software Engineering Web App
-- 🔭 I’m currently learning golang backend!
+- 🔭 I’m currently learning golang backend and doing my personal projects as a data analyst!
 
 ---
 tags on my repos:
