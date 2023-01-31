@@ -10,11 +10,30 @@
 - 🔭 I’m currently learning golang backend and doing my personal projects as a data analyst!
 
 ---
-tags on my repos:
+### tags on my repos:
 - [k](https://github.com/caesariodito?tab=repositories&q=k&type=&language=&sort= "Search k tag"): kuliah/college assigments
 - [st](https://github.com/caesariodito?tab=repositories&q=st&type=&language=&sort= "Search st tag"): study
 - [mp](https://github.com/caesariodito?tab=repositories&q=mp&type=&language=&sort= "Search mp tag"): mini project/personal projects
 - [comp](https://github.com/caesariodito?tab=repositories&q=comp&type=&language=&sort= "Search comp tag"): competition
+
+---
+
+### 🚗#100Days of Code Journey
+
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="16px"  width="16px" />  
+  <a href="https://sesar-d.notion.site/100DaysOfCode-e3d04dce88c54d1a80268add3bec992a"> View my journey!</a>
+</div>
+
+---
+
+### ⚡Stats
+
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caesariodito&theme=radical&hide_border=true" height="192px"  width="500px" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesariodito&layout=compact&theme=radical&hide_border=true" height="192px"  width="500px"> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caesariodito&count_private=true&theme=radical&hide_border=true" height="192px"  width="500px"/>
+</div>
 
 ---
 
