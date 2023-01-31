@@ -1,4 +1,4 @@
-### Wadup 👊🦆, Nice to meet u!
+## Wadup 👊🦆, Nice to meet u!
 ---
 5th-Semester at Uni
 - focuses on Intelligent System!
@@ -17,6 +17,8 @@ tags on my repos:
 - [comp](https://github.com/caesariodito?tab=repositories&q=comp&type=&language=&sort= "Search comp tag"): competition
 
 ---
+
+### 🎧 Now Playing
 
 [![My Spotify](https://spotify-now-playing-gray-omega.vercel.app/api/spotify)](https://open.spotify.com/user/65fzra6amq5cbvz80afbae499)
 
