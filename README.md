@@ -18,7 +18,34 @@ tags on my repos:
 
 ---
 
+[![My Spotify](https://spotify-now-playing-gray-omega.vercel.app/api/spotify)](https://open.spotify.com/user/65fzra6amq5cbvz80afbae499)
+
+<!--
+
+<table>
+  <thead>
+    <tr>
+      <th>📈 Top Tracks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://spotify-now-playing-gray-omega.vercel.app/top-tracks?i=1&open"><img src="https://spotify-now-playing-gray-omega.vercel.app/top-tracks?i=1" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> 
+    <tr>
+      <td><a href="https://spotify-now-playing-gray-omega.vercel.app/top-tracks?i=2&open"><img src="https://spotify-now-playing-gray-omega.vercel.app/top-tracks?i=2" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> 
+    <tr>
+      <td><a href="https://spotify-now-playing-gray-omega.vercel.app/api/top-tracks?i=3&open"><img src="https://spotify-now-playing-gray-omega.vercel.app/api/top-tracks?i=3" width="540" height="64"></a></td>
+    </tr>
+  </tbody>
+</table>
+-->
+
 `spread kindess 🤍`
+
 
 <!--
 
