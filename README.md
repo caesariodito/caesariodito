@@ -30,9 +30,9 @@
 ### ⚡Stats
 
 <div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caesariodito&theme=radical&hide_border=true" height="192px"  width="450px" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caesariodito&theme=radical&hide_border=true" height="192px"  width="400px" />
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesariodito&layout=compact&theme=radical&hide_border=true" height="192px"  width="500px"> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caesariodito&count_private=true&theme=radical&hide_border=true" height="192px"  width="450px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caesariodito&count_private=true&theme=radical&hide_border=true" height="192px"  width="400px"/>
 </div>
 
 ---
