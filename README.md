@@ -1,4 +1,5 @@
 ## Wadup 👊🦆, Nice to meet u!
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/caesariodito)
 ---
 5th-Semester at Uni
 - focuses on Intelligent System!
@@ -48,6 +49,10 @@
 
 ---
 
+&nbsp;<div align="center">
+   `spread kindess 🤍` 
+</div>
+
 <!--
 
 <table>
@@ -71,9 +76,6 @@
   </tbody>
 </table>
 -->
-
-`spread kindess 🤍`
-
 
 <!--
 
