@@ -9,7 +9,7 @@
 > - Batik, Numbered Musical Notation Image Processing
 > - Software Engineering Web App
 - 🔭 I’m currently doing my personal projects as a data analyst!
-- Bangkit 2023 Participant! 🎉
+- 🎉 I'm a Bangkit 2023 Participant!
 
 ---
 ### tags on my repos:
