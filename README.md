@@ -1,14 +1,15 @@
 ## Wadup 👊🦆, Nice to meet u!
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/caesariodito)
 ---
-5th-Semester at Uni
+6th-Semester at Uni
 - focuses on Intelligent System!
 - college experienced with:
 > - Social Network Analysis
 > - Leaf Pattern Recognition with Template Matching, KNN, and Cross Validation
 > - Batik, Numbered Musical Notation Image Processing
 > - Software Engineering Web App
-- 🔭 I’m currently learning golang backend and doing my personal projects as a data analyst!
+- 🔭 I’m currently doing my personal projects as a data analyst!
+- Bangkit 2023 Participant! 🎉
 
 ---
 ### tags on my repos:
