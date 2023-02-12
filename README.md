@@ -8,7 +8,8 @@
 > - Leaf Pattern Recognition with Template Matching, KNN, and Cross Validation
 > - Batik, Numbered Musical Notation Image Processing
 > - Software Engineering Web App
-- 🔭 I’m currently doing my personal projects as a data analyst!
+- 🔭 I’m currently doing my personal projects on AI fields!
+- 🤖 My latest project is done! You can view it [here!](https://github.com/caesariodito/mp-assignment-automation)
 - 🎉 I'm a Bangkit 2023 Participant!
 
 ---
