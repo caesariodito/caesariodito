@@ -45,6 +45,11 @@
   
 </details>
 
+<details>
+  <summary>Metrics!</summary>
+  <img align="center" src="https://metrics.lecoq.io/caesariodito?template=classic&lines=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FBangkok" />
+</details>
+
 ### 🎧 Now Playing
 
 [![My Spotify](https://spotify-now-playing-gray-omega.vercel.app/api/spotify)](https://open.spotify.com/user/65fzra6amq5cbvz80afbae499)
