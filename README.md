@@ -10,7 +10,7 @@
 > - Software Engineering Web App
 - 🔭 I’m currently doing my personal projects on AI fields!
 - 🤖 My latest project is done! You can view it [here!](https://github.com/caesariodito/mp-assignment-automation)
-- 🎉 I'm a Bangkit 2023 Participant!
+- 🎉 I'm a Bangkit 2023 Machine Learning Participant!
 
 ---
 ### tags on my repos:
