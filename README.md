@@ -16,6 +16,7 @@
 - [k](https://github.com/caesariodito?tab=repositories&q=k&type=&language=&sort= "Search k tag"): kuliah/college assigments
 - [st](https://github.com/caesariodito?tab=repositories&q=st&type=&language=&sort= "Search st tag"): study
 - [mp](https://github.com/caesariodito?tab=repositories&q=mp&type=&language=&sort= "Search mp tag"): mini project/personal projects
+- [o](https://github.com/caesariodito?tab=repositories&q=o&type=&language=&sort=): other
 - [comp](https://github.com/caesariodito?tab=repositories&q=comp&type=&language=&sort= "Search comp tag"): competition
 
 ---
