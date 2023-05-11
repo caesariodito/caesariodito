@@ -17,7 +17,7 @@ Informatics Student
 
 <p align="center">
   | <br> <b>&#9679</b> <br>
-  <img src="https://cdn.discordapp.com/attachments/1106222232834945084/1106225152141824000/eq_anim.gif" height="150px"/>
+  <img src="https://cdn.discordapp.com/attachments/1106222232834945084/1106225152141824000/eq_anim.gif" height="100px"/>
   <br>
   <b>&#9679</b>
   <br> |
@@ -30,4 +30,11 @@ Informatics Student
   
 <div align="center">
     <b>&#9494</b>---------------------------------------------------------------------------------------------------<b>&#9498</b>
+</div>
+ 
+<div align="center">
+  <a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caesariodito&theme=transparent&hide_border=true" width="30%" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesariodito&layout=compact&hide_border=true&bg_color=00000000" width="30%" />
+  </a>
 </div>
