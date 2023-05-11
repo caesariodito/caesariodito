@@ -10,17 +10,17 @@
   </div>
 
 <p align="center"><samp>
-‿︵‿︵‿︵ ML Explorer ‿︵‿🛥︵‿
+‿︵‿︵‿︵ Machine Learning Explorer ‿︵‿🛥︵‿
 <br>
 Informatics Student
 </samp></p>
 
 <p align="center">
-  | <br> | <br> <b>&#9679</b> <br>
+  | <br> <b>&#9679</b> <br>
   <img src="https://cdn.discordapp.com/attachments/1106222232834945084/1106225152141824000/eq_anim.gif" height="150px"/>
   <br>
   <b>&#9679</b>
-  <br> | <br> |
+  <br> |
   <br> <br>
   <a href="https://open.spotify.com/user/65fzra6amq5cbvz80afbae499">
     <img src="https://spotify-now-playing-gray-omega.vercel.app/api/spotify" alt="Now Playing">
