@@ -38,8 +38,8 @@ Informatics Student
   <summary>&#128498</summary>
   <div align="center">
     <a>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caesariodito&theme=midnight-purple&hide_border=true" width="40%" /> || 
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesariodito&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" width="40%" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caesariodito&theme=transparent&hide_border=true" width="50%" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesariodito&theme=github_dark&layout=compact&hide_border=true&bg_color=00000000" width="40%" />
     </a>
   </div>
 </details>
