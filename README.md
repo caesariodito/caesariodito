@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1106222232834945084/1106224845001330728/neural.gif" height="500px"/>
+  <img src="https://cdn.discordapp.com/attachments/1106222232834945084/1106224845001330728/neural.gif" height="350px"/>
 </p>
 
 <h4 align="center" id="begin"><samp>Wadup.</h4>
