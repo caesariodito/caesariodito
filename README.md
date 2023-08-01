@@ -15,7 +15,7 @@
   </div>
 
 <p align="center"><samp>
-‿︵‿︵‿︵ Machine Learning Explorer ‿︵‿🛥︵‿
+‿︵‿︵‿︵ Machine Learning Explorer, Tech Enthusiast ‿︵‿🛥︵‿
 <br>
 Informatics Student
 </samp></p>
