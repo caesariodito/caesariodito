@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1106222232834945084/1106224845001330728/neural.gif" height="350px"/>
+<!--   <img src="https://cdn.discordapp.com/attachments/1106222232834945084/1106224845001330728/neural.gif" height="350px"/> -->
+  <img src="https://cdn.discordapp.com/attachments/1106222232834945084/1138564166307811328/ezgif.com-gif-maker.gif?ex=65f0b602&is=65de4102&hm=3958cc933998faa8b62c556ca09fd7aa1c939610734954d5464ea2a97792829a&" height="350px"/>
 </p>
 
 <h4 align="center" id="begin"><samp>Wadup.</h4>
@@ -22,7 +23,8 @@ Informatics Student
 
 <p align="center">
   | <br> <b>&#9679</b> <br>
-  <img src="https://cdn.discordapp.com/attachments/1106222232834945084/1106225152141824000/eq_anim.gif" height="100px"/>
+<!--   <img src="https://cdn.discordapp.com/attachments/1106222232834945084/1106225152141824000/eq_anim.gif" height="100px"/> -->
+  <img src="https://cdn.discordapp.com/attachments/1106222232834945084/1106225152141824000/eq_anim.gif?ex=65f30874&is=65e09374&hm=0949b821d95cbeefbca6e927e71a84c567be2e3639987c50d70e61da41de35be&" height="100px"/>
   <br>
   <b>&#9679</b>
   <br> |
