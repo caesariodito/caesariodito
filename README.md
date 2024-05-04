@@ -1,6 +1,6 @@
 <p align="center">
 <!--   <img src="https://cdn.discordapp.com/attachments/1106222232834945084/1106224845001330728/neural.gif" height="350px"/> -->
-  <img src="https://res.cloudinary.com/dqljtchgs/image/upload/f_auto,q_auto/particles_g3wsuu" height="350px"/>
+  <img src="https://res.cloudinary.com/dqljtchgs/image/upload/f_auto,q_auto/v1/github-thingies/particles_g3wsuu" height="350px"/>
 </p>
 
 <h4 align="center" id="begin"><samp>Wadup.</h4>
@@ -24,7 +24,7 @@ Informatics Student
 <p align="center">
   | <br> <b>&#9679</b> <br>
 <!--   <img src="https://cdn.discordapp.com/attachments/1106222232834945084/1106225152141824000/eq_anim.gif" height="100px"/> -->
-  <img src="https://res.cloudinary.com/dqljtchgs/image/upload/f_auto,q_auto/eq_z7ctrx" height="100px"/>
+  <img src="https://res.cloudinary.com/dqljtchgs/image/upload/f_auto,q_auto/v1/github-thingies/eq_z7ctrx" height="100px"/>
   <br>
   <b>&#9679</b>
   <br> |
