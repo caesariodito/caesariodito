@@ -18,7 +18,7 @@
 <p align="center"><samp>
 ‿︵‿︵‿︵ Tech Enthusiast ‿︵‿🛥︵‿
 <br>
-Informatics Student
+"Agnostic coder"
 </samp></p>
 
 <p align="center">
