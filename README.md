@@ -50,6 +50,6 @@
 <div align="center">
   <a>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caesariodito&theme=transparent&hide_border=true" width="50%" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesariodito&theme=github_dark&layout=compact&hide_border=true&bg_color=00000000&hide=jupyter%20notebook,html" width="40%" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesariodito&theme=github_dark&layout=compact&hide_border=true&bg_color=00000000&hide=jupyter%20notebook,html,scss" width="40%" />
   </a>
 </div>
